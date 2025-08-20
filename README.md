@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @kodocean-ng a graduate of Elect/Elect Engineering 
-- 👀 I’m interested in learning programming so as to create new ideas to solve daily challenges around me.
-- 🌱 I’m currently learning python programming language, I have worked on Matlab for mathematical computations and solve some Instrumentation and control problems.
-- 💞️ I would be happy to work with a team of guys to create a project will resolve issues around early detection of cancer by automatically identifying high risk patients before it becomes major problem with the aid of software and patient’s medical history.
-- 📫 You can send me a mail: francisconiyi@gmail.com or @kodocean on twitter.
+# Welcome to @Kunlexniyi's GitHub!
 
-<!---
-kodocean-ng/kodocean-ng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Kunlexniyi, a graduate of Electrical/Electronic Engineering (BSc, OAU 2012); Control and Instrumentation Engineering (MSc, U. Derby 2024).
+👀 I’m passionate about Autonomous Systems and Robotics, with past projects in drone and EV control systems using Fuzzy Logic and Genetic Algorithms.
+🌱 I’m currently learning programming through CS50 (Harvard) to build skills for robotics and automation.
+💞️ I’m eager to collaborate on robotics projects, like autonomous navigation or control systems for real-world challenges.
+📫 Reach me at: francisconiyi@gmail.com, @Kunlexniyi on X, Instagram, LinkedIn.
